@@ -21,4 +21,4 @@ https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights/in
 * master.csv - the dataset used in the analysis
 
 ## Result
-The best model predicting Suicide rates for upcoming year was Random Forest Classifier showing accuracy 98.73%
+The best model predicting Suicide rates for upcoming year was Random Forest Classifier showing accuracy around 98.73%
