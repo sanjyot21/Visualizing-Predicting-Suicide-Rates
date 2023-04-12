@@ -14,7 +14,8 @@ The dataset used in the notebook is available on Kaggle and is licensed under th
 https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights/input
 
 ## Contents
-DV_Suicide.Rmd - the R Markdown file containing the analysis
-DV_Models.ipynb - the Jupyter Source File containing prediction
-DV_Visuals.ipynb - the Jupyter Source File containing visualization 
-master.csv - the dataset used in the analysis
+* DV_Suicide.Rmd - the R Markdown file containing the analysis
+* DV_Models.ipynb - the Jupyter Source File containing prediction
+* DV_Visuals.ipynb - the Jupyter Source File containing visualization
+* WorldMapSuicide.twb - the Tableau Worksheet containing world map highlighting suicide rates
+* master.csv - the dataset used in the analysis
