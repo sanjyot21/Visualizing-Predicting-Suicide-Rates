@@ -19,3 +19,6 @@ https://www.kaggle.com/code/lmorgan95/r-suicide-rates-in-depth-stats-insights/in
 * DV_Visuals.ipynb - the Jupyter Source File containing visualization
 * WorldMapSuicide.twb - the Tableau Worksheet containing world map highlighting suicide rates
 * master.csv - the dataset used in the analysis
+
+## Result
+The best model predicting Suicide rates for upcoming year was Random Forest Classifier showing accuracy 98.73%
